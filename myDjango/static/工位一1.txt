@@ -1,0 +1,660 @@
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.16, 192.168.13.83:49798]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49799]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49800]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49802]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '', 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49804]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49803]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49806]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49808]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49809]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49805]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49807]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '', 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49812]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49811]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49813]
+{'id': '1_2', '1_2': '', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49814]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49815]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49816]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49817]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49819]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49820]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49821]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49822]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49824]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49825]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49823]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49826]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49828]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49827]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49829]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49830]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49831]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49832]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49833]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49837]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49836]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49839]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49840]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49838]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49841]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49842]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49843]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49844]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49845]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49846]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49847]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49848]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49849]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49850]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49851]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49852]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49853]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49855]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49856]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49857]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49858]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49859]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49862]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49861]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49860]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49864]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49865]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49863]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49866]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49867]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49868]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49869]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49870]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49871]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49872]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49873]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49876]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49877]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49878]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49879]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49881]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49880]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49883]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49884]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49885]
+HTTP POST /workshop/data/set1 200 [0.04, 192.168.13.83:49886]
+HTTP POST /workshop/data/set1 200 [0.04, 192.168.13.83:49887]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49889]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49890]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49888]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49891]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49894]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49895]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49897]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49896]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49892]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49893]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49898]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49899]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49900]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49901]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49902]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49903]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49904]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49905]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49906]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49910]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49909]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49908]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49911]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49913]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49912]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49915]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49914]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49916]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49917]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49918]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49919]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49920]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49922]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49921]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49923]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49925]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49926]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49927]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49928]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49930]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49932]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'id': '2', '2': {'J1': '', 'J2': '', 'J3': '', 'J4': ''}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49934]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49933]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49935]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49937]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49936]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49942]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49939]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49943]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49941]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49938]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49944]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49945]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49946]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49947]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49948]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49949]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49952]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49950]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49953]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49951]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49955]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49956]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49957]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49958]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49959]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49960]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49962]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49961]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49964]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:49965]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.05, 192.168.13.83:49966]
+HTTP POST /workshop/data/set1 200 [0.05, 192.168.13.83:49967]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49968]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49969]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49970]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49971]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49972]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49976]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49975]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49974]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49977]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49978]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49980]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49979]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49982]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49983]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49984]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49985]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49986]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49987]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49988]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49990]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49989]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:49991]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49993]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49995]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49994]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49996]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:49997]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49998]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:49999]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50000]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50001]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50002]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50003]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50004]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50005]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50007]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50006]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50008]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50010]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50009]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50011]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50012]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50013]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50014]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50015]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50016]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50017]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50019]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50020]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50022]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50021]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50023]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50024]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50025]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50026]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50028]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50027]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50029]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50030]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50033]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50031]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50032]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50034]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50037]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50038]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50039]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50041]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50040]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50042]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50043]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50046]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:50045]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50044]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50047]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50050]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50049]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50048]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50052]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50051]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50053]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50054]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50055]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50056]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50058]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50057]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50060]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50059]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50061]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50062]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50064]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50069]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50071]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50072]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50068]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50070]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50073]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50074]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50077]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50075]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50076]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50080]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50078]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50081]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50082]
+{'id': '2', '2': {'J1': '', 'J2': '', 'J3': '', 'J4': ''}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50085]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50086]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50087]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50088]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50091]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50090]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50089]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50092]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50093]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50094]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50095]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50097]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50098]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50099]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50100]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50102]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50101]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50103]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50104]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50105]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50106]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50107]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50108]
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50110]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50109]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50111]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50113]
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50114]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50115]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50118]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50117]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50116]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50119]
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50120]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50121]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50122]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50126]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50127]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50123]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50124]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50129]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:50130]
+HTTP POST /workshop/data/set1 200 [0.03, 192.168.13.83:50128]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50131]
+{'id': '2', '2': {'J1': '', 'J2': '', 'J3': '', 'J4': ''}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50133]
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50134]
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50135]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50136]
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50137]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50139]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50138]
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50140]
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50141]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '9', '9': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50143]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50142]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50144]
+{'id': '10', '10': {'J1': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50145]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'3': '0', 'id': '3', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50147]
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50148]
+{'id': '10', '10': {'J4': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '10', '10': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50150]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50149]
+{'id': '1_5', '1_5': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50151]
+{'id': '9', '9': {'J3': '0'}, 'update_time': '2021/5/8 11:39'}
+{'id': '2', '2': {'J1': '41.81832', 'J2': '7.5630297029703', 'J3': '4.73625', 'J4': '9.274'}, 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50153]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50152]
+{'id': '1_2', '1_2': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_3', '1_3': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50154]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50155]
+{'id': '1_4', '1_4': '0', 'update_time': '2021/5/8 11:39'}
+{'id': '1_1', '1_1': '1', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50157]
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50156]
+{'5': '0', 'id': '5', 'update_time': '2021/5/8 11:39'}
+{'6': '0', 'id': '6', 'update_time': '2021/5/8 11:39'}
+{'4': '0', 'id': '4', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50158]
+HTTP POST /workshop/data/set1 200 [0.02, 192.168.13.83:50160]
+HTTP POST /workshop/data/set1 200 [0.01, 192.168.13.83:50159]
+{'id': '1_6', '1_6': 'stop', 'update_time': '2021/5/8 11:39'}
+HTTP POST /workshop/data/set1 200 [0.00, 192.168.13.83:50161]

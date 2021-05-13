@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--首先添加命名空间，主要包括节点类、数据类型以及W3C标准-->
+<UANodeSet xmlns="http://opcfoundation.org/UA/2011/03/UANodeSet.xsd"
+           xmlns:uax="http://opcfoundation.org/UA/2008/02/Types.xsd"
+           xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+	
+    <UAObjectType NodeId="i=30000" BrowseName="SensorType">
+        <DisplayName>SensorType</DisplayName>
+        <Description>传感器类型</Description>
+        <References>
+            <Reference ReferenceType="HasSubtype" IsForward="false">i=58</Reference>    <!-- BaseObjectType -->
+        </References>
+    </UAObjectType>
+
+	<!--创建对象节点-->
+    <UAObject NodeId="i=30001" BrowseName="Configuration">
+        <Description>配置</Description>
+        <References>
+            <Reference ReferenceType="HasTypeDefinition">i=58</Reference>    <!-- BaseObjectType -->
+            <Reference ReferenceType="HasModellingRule">i=78</Reference>    <!-- ModellingRule_Mandatory -->
+            <Reference ReferenceType="HasComponent" IsForward="false">i=30000</Reference>
+        </References>
+    </UAObject>
+
+    <UAVariable NodeId="i=30002" BrowseName="EngineeringUnit" ParentNodeId="i=30001" DataType="String">
+        <DisplayName>EngineeringUnit</DisplayName>
+        <Description>温度工程单位</Description>
+        <References>
+            <Reference ReferenceType="HasTypeDefinition">i=63</Reference>    <!-- BaseDataVariableType -->
+            <Reference ReferenceType="HasModellingRule">i=78</Reference>    <!-- ModellingRule_Mandatory -->
+            <Reference ReferenceType="Organizes" IsForward="false">i=30001</Reference>
+        </References>
+        <Value><uax:String>℃</uax:String></Value>
+    </UAVariable>
+
+    <UAObject NodeId="i=30003" BrowseName="Measurement">
+        <Description>温度测试</Description>
+        <References>
+            <Reference ReferenceType="HasTypeDefinition">i=58</Reference>    <!-- BaseObjectType -->
+            <Reference ReferenceType="HasModellingRule">i=78</Reference>    <!-- ModellingRule_Mandatory -->
+            <Reference ReferenceType="HasComponent" IsForward="false">i=30000</Reference>
+        </References>
+    </UAObject>
+
+    <UAVariable NodeId="i=30004" BrowseName="Temperature" ParentNodeId="i=30003" DataType="Float">
+        <DisplayName>Temperature</DisplayName>
+        <Description>温度</Description>
+        <References>
+            <Reference ReferenceType="HasTypeDefinition">i=63</Reference>    <!-- BaseDataVariableType -->
+            <Reference ReferenceType="HasModellingRule">i=78</Reference>    <!-- ModellingRule_Mandatory -->
+            <Reference ReferenceType="Organizes" IsForward="false">i=30003</Reference>
+        </References>
+        <Value><uax:Float>0.0</uax:Float></Value>
+    </UAVariable>
+
+    <UAVariable NodeId="i=30005" BrowseName="EngineeringUnit" ParentNodeId="i=30004" DataType="String">
+        <DisplayName>EngineeringUnit</DisplayName>
+        <Description>温度工程单位</Description>
+        <References>
+            <Reference ReferenceType="HasTypeDefinition">i=68</Reference>    <!-- PropertyType -->
+            <Reference ReferenceType="HasModellingRule">i=78</Reference>    <!-- ModellingRule_Mandatory -->
+            <Reference ReferenceType="HasProperty" IsForward="false">i=30004</Reference>
+        </References>
+        <Value><uax:String>℃</uax:String></Value>
+    </UAVariable>
+</UANodeSet>

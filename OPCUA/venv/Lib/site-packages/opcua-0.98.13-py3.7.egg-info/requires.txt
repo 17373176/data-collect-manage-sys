@@ -1,0 +1,11 @@
+lxml
+python-dateutil
+pytz
+
+[:python_version < "3"]
+enum34
+futures
+trollius
+
+[encryption]
+cryptography
