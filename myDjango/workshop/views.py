@@ -37,50 +37,50 @@ PORT = 8883
 User = "ce060bd8-2430-4d11-803c-ec9a7be8dc8e"
 Password = "123456"
 mqttclient = mqtt.Client()
-robot1 = {
-    "robotId": "0b87fab2-9df5-4327-99d3-39ef69c1894e",
-    "timestamp": int(time.time() * 1000),
-    "fCurJoint1": 0,
-    "fCurJoint2": 0,
-    "fCurJoint3": 0,
-    "fCurJoint4": 0,
-    "fCurJoint5": 0,
-    "fCurJoint6": 0,
-    "fAxisTorque1": 0.0,
-    "fAxisTorque2": 0.0,
-    "fAxisTorque3": 0.0,
-    "fAxisTorque4": 0.0,
-    "fAxisTorque5": 0.0,
-    "fAxisTorque6": 0.0,
-    "fAxisSpeed1": 0.0,
-    "fAxisSpeed2": 0.0,
-    "fAxisSpeed3": 0.0,
-    "fAxisSpeed4": 0.0,
-    "fAxisSpeed5": 0.0,
-    "fAxisSpeed6": 0.0,
-}
-robot2 = {
-    "robotId": "786f8c2a-15bd-4550-bdbd-96b2dba0a129",
-    "timestamp": int(time.time() * 1000),
-    "fCurJoint1": 0,
-    "fCurJoint2": 0,
-    "fCurJoint3": 0,
-    "fCurJoint4": 0,
-    "fCurJoint5": 0,
-    "fCurJoint6": 0,
-    "fAxisTorque1": 0.0,
-    "fAxisTorque2": 0.0,
-    "fAxisTorque3": 0.0,
-    "fAxisTorque4": 0.0,
-    "fAxisTorque5": 0.0,
-    "fAxisTorque6": 0.0,
-    "fAxisSpeed1": 0.0,
-    "fAxisSpeed2": 0.0,
-    "fAxisSpeed3": 0.0,
-    "fAxisSpeed4": 0.0,
-    "fAxisSpeed5": 0.0,
-    "fAxisSpeed6": 0.0,
-}
+# robot1 = {
+#     "robotId": "0b87fab2-9df5-4327-99d3-39ef69c1894e",
+#     "timestamp": int(time.time() * 1000),
+#     "fCurJoint1": 0,
+#     "fCurJoint2": 0,
+#     "fCurJoint3": 0,
+#     "fCurJoint4": 0,
+#     "fCurJoint5": 0,
+#     "fCurJoint6": 0,
+#     "fAxisTorque1": 0.0,
+#     "fAxisTorque2": 0.0,
+#     "fAxisTorque3": 0.0,
+#     "fAxisTorque4": 0.0,
+#     "fAxisTorque5": 0.0,
+#     "fAxisTorque6": 0.0,
+#     "fAxisSpeed1": 0.0,
+#     "fAxisSpeed2": 0.0,
+#     "fAxisSpeed3": 0.0,
+#     "fAxisSpeed4": 0.0,
+#     "fAxisSpeed5": 0.0,
+#     "fAxisSpeed6": 0.0,
+# }
+# robot2 = {
+#     "robotId": "786f8c2a-15bd-4550-bdbd-96b2dba0a129",
+#     "timestamp": int(time.time() * 1000),
+#     "fCurJoint1": 0,
+#     "fCurJoint2": 0,
+#     "fCurJoint3": 0,
+#     "fCurJoint4": 0,
+#     "fCurJoint5": 0,
+#     "fCurJoint6": 0,
+#     "fAxisTorque1": 0.0,
+#     "fAxisTorque2": 0.0,
+#     "fAxisTorque3": 0.0,
+#     "fAxisTorque4": 0.0,
+#     "fAxisTorque5": 0.0,
+#     "fAxisTorque6": 0.0,
+#     "fAxisSpeed1": 0.0,
+#     "fAxisSpeed2": 0.0,
+#     "fAxisSpeed3": 0.0,
+#     "fAxisSpeed4": 0.0,
+#     "fAxisSpeed5": 0.0,
+#     "fAxisSpeed6": 0.0,
+# }
 
 logger = logging.getLogger('log')
 
@@ -194,7 +194,7 @@ def send_state():
         param2 = json.dumps(robot2)
         mqttclient.publish("ce060bd8-2430-4d11-803c-ec9a7be8dc8e", payload=param1, qos=0)
         mqttclient.publish("ce060bd8-2430-4d11-803c-ec9a7be8dc8e", payload=param2, qos=0)
-        #print("发送成功：", robot1,"\n", robot2)
+        # print("发送成功：", robot1,"\n", robot2)
         time.sleep(0.1)
     pass
 
@@ -254,12 +254,12 @@ def send_to_broker(HOST, PORT, Username, Password):
 '''
 kafka_producer = ProducerThread()
 kafka_consumer = ConsumerThread()'''
-'''
+
 try:
     _thread.start_new_thread(send_to_broker, (HOST, PORT, User, Password))
 except Exception as excep:
     print("start_new_thread", excep)
-'''
+
 
 def index(request):
     return render(request, 'index.html', {})

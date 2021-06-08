@@ -105,6 +105,7 @@ def insert_redis(data):
     except Exception as e:
         print(e)
 
+
 def redis_set(key,value):
     '''
     将redis里的的key设为value
@@ -120,6 +121,7 @@ def redis_set(key,value):
         print("redis_set:",e)
         return False
 
+
 def redis_mset(data:dict):
     '''
     redis mset 封装
@@ -134,6 +136,7 @@ def redis_mset(data:dict):
         print("redis_mset:",e)
         return False
     pass
+
 
 def redis_get(key,default):
     '''
@@ -154,8 +157,9 @@ def redis_get(key,default):
         return default
     pass
 
+
 def redis_mget(keys:tuple,default:list):
-    print("mget data",keys)
+    #print("mget data",keys)
     if len(keys)!=len(default):
         return None
     try:
