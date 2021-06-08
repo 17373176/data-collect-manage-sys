@@ -34,10 +34,12 @@ urlpatterns = [
     path('data/set1', multiProtocol.insert_data_set),
     # 接收工位2的数据
     path('data/set2', multiProtocol.insert_data_set),
-    # 接收工位3的数据
+    # 接收工位3-1的数据
     path('data/set3', multiProtocol.insert_data_set),
-    # 接收工位4的数据
+    # 接收工位3-2的数据
     path('data/set4', multiProtocol.insert_data_set),
+    # 接收工位4的数据
+    path('data/set5', multiProtocol.insert_data_set),
 
     # 接收工位1上图片1
     path('file/binary/upload/loading1', multiProtocol.file_upload_L1),
@@ -51,3 +53,16 @@ urlpatterns = [
     path('file/binary/upload/result', multiProtocol.file_upload_result),
 
 ]
+
+'''
+    # 接收工位1上图片1
+    path('file/binary/upload/loading1', multiProtocol.file_upload_L1),
+    # 接收工位1上图片2
+    path('file/binary/upload/loading2', multiProtocol.file_upload_L2),
+    # 接收工位2上图片
+    path('file/binary/upload/reg', multiProtocol.file_upload_reg),
+    # 接收工位3上动作图片
+    path('file/binary/upload/action', multiProtocol.file_upload_action),
+    # 接收工位3上检测图片
+    path('file/binary/upload/result', multiProtocol.file_upload_result),
+    '''
