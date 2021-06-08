@@ -1,0 +1,1 @@
+E:\mysql\redis\redis-server E:\mysql\redis\redis.windows.conf

@@ -1,0 +1,1 @@
+E:\mysql\redis\redis-cli

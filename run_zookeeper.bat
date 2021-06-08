@@ -1,0 +1,1 @@
+E:\mysql\kafka\bin\windows\zookeeper-server-start.bat  E:\mysql\kafka\config\zookeeper.properties
