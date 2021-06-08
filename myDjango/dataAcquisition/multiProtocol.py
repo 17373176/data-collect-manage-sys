@@ -92,7 +92,7 @@ def insert_data_set(request):
     @return: JsonResponse
     """
     receive = request.POST.get('data')
-    # print(receive)
+    #print(receive)
     if not receive:  # 空请求
         return JsonResponse(error_msg('data is required'))
 
@@ -116,9 +116,9 @@ def insert_data_set(request):
         #     'id'] == '22_5' or \
         #         data['id'] == '22_6' or data['id'] == '22_7' or data['id'] == '22_8' or data['id'] == '22_9':
         #if data['id'] == '14' or data['id'] == '11' or data['id'] == '13' or data['id'] == '15':
-        if data['id'] == '31' or data['id'] == '32' or data['id'] == '33' or data['id'] == '34' or data['id'] == '35' \
-                or data['id'] == '36' or data['id'] == '37' or data['id'] == '38':
-            data_store_db(data)
+        # if data['id'] == '31' or data['id'] == '32' or data['id'] == '33' or data['id'] == '34' or data['id'] == '35' \
+        #         or data['id'] == '36' or data['id'] == '37' or data['id'] == '38':
+        data_store_db(data)
     return JsonResponse(success_msg("数据接收成功"))
 
 
@@ -154,7 +154,7 @@ def data_store_db(data):
         redis_set_data['ro1_fCurJoint4'] = data['value']['J4']
         dataBaseDao.redis_mset(redis_set_data)
     elif data['id'] == '9':
-        print(data)
+        #print(data)
         if 'J1' in data['value']:
             redis_set_data['ro1_fAxisTorque1'] = data['value']['J1']
         if 'J2' in data['value']:
@@ -176,6 +176,7 @@ def data_store_db(data):
         redis_set_data['ro2_fAxisTorque3'] = data['value']['J3']
         redis_set_data['ro2_fAxisTorque4'] = data['value']['J4']
         dataBaseDao.redis_mset(redis_set_data)
+    #print(redis_set_data)
 
     dataBaseDao.insert_redis(data)
     #dataBaseDao.insert_machine(data)
@@ -329,7 +330,6 @@ def data_to_x(pre_data):
             "value": ACTION_ID_VALUE[id],
             "update_time": time_temp
         }
-        print(data)
 
     # 装配结果
     elif id == "22_1" or id == "22_2" or id == "22_3" or id == "22_4" or id == "22_5" or id == "22_6" \
@@ -341,7 +341,16 @@ def data_to_x(pre_data):
             "value": RESULT_ID_VALUE[id],
             "update_time": time_temp
         }
-        print(data)
+
+    # 工位四电流、噪声、推力、震动
+    elif id == "34" or id == "35" or id == "36" or id == "37":
+        data = {
+            "no": ID_TO_NO[id],
+            "id": id,
+            "name": MACHINE_ID_NAME[id],
+            "value": pre_data["value"],
+            "update_time": time_temp
+        }
 
     else:
         data = {
